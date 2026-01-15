@@ -27,6 +27,7 @@ day-switch.js
 1. Install dependencies:
 ```bash
 npm install
-
 ```
+2. Run a script:
+node path/to/file.js
 
